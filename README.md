@@ -34,8 +34,6 @@ book-catalog-api/
 │   └── errorMiddleware.js   # Error handling
 ├── data/
 │   ├── bookData.js         # In-memory database
-│   ├── sampleBooks.js      # Sample book data
-│   └── seedDatabase.js     # Database seeding script
 └── tests/
     └── books.test.js       # Test suite
 ```
